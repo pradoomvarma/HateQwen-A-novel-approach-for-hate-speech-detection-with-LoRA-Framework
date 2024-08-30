@@ -1,4 +1,4 @@
-HateQwen: A Novel Approach for Hate Speech Detection
+##HateQwen: A Novel Approach for Hate Speech Detection##
 
 HateQwen is an advanced hate speech detection model based on the Qwen2-1.5 model, fine-tuned using the Low-Rank Adaptation (LoRA) architecture and the dynaHate dataset. This approach has led to significant improvements in accuracy and F1 score, outperforming several prominent models like TinyLLaMA, OPT-1.3B, and phi-2.
 
