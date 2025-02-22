@@ -21,7 +21,7 @@ pip install torch transformers
 ### Running the Model
 Clone the repository and run the model:
 ```bash
-git clone 
+git clone https://github.com/pradoomvarma/HateQwen-A-novel-approach-for-hate-speech-detection-with-LoRA-Framework.git
 cd HateQwen
 python run_model.py
 ```
